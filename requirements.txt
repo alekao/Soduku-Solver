@@ -1,0 +1,5 @@
+# CSC111 Winter 2021: Final Project
+
+pyglet~=1.5.15
+python-ta~=1.6.3
+
